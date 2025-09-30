@@ -1,0 +1,8 @@
+2025-06-24 22:40:39 [INFO] 🚀 Starting CryptoBot in Paper trading mode on Kraken.
+2025-06-24 22:40:39 [INFO] Color test: BUY
+2025-06-24 22:40:39 [INFO] Color test: SELL
+2025-06-24 22:40:39 [INFO] Color test: HOLD
+2025-06-24 22:40:46 [DEBUG] RSI: 48.46 | EMA9: 144548.15 | EMA21: 144536.85 | MACD: 9.0830 | Signal: 6.5974 | Price: 144520.20 | ATR: 44.26 | Volume: 0.01/0.00
+2025-06-24 22:40:55 [DEBUG] RSI: 50.75 | EMA9: 144547.38 | EMA21: 144537.52 | MACD: 8.3483 | Signal: 6.9476 | Price: 144544.30 | ATR: 44.73 | Volume: 0.02/0.00
+2025-06-24 22:40:56 [INFO] Shutting down gracefully...
+2025-06-24 22:40:56 [INFO] State saved.

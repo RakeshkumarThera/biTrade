@@ -1,0 +1,72 @@
+{
+  "btc_held": 0.0013317021163550703,
+  "cash": 805.0,
+  "active_trades": [
+    {
+      "type": "BUY",
+      "entry_price": 146494.0,
+      "amount": 0.00010239327207940257
+    },
+    {
+      "type": "BUY",
+      "entry_price": 146504.4,
+      "amount": 0.00010238600342378796
+    },
+    {
+      "type": "BUY",
+      "entry_price": 146466.3,
+      "amount": 0.00010241263690009238
+    },
+    {
+      "type": "BUY",
+      "entry_price": 146455.5,
+      "amount": 0.00010242018906766902
+    },
+    {
+      "type": "BUY",
+      "entry_price": 146509.8,
+      "amount": 0.00010238222972115177
+    },
+    {
+      "type": "BUY",
+      "entry_price": 146490.6,
+      "amount": 0.00010239564859451733
+    },
+    {
+      "type": "BUY",
+      "entry_price": 146490.6,
+      "amount": 0.00010239564859451733
+    },
+    {
+      "type": "BUY",
+      "entry_price": 146398.0,
+      "amount": 0.00010246041612590335
+    },
+    {
+      "type": "BUY",
+      "entry_price": 146402.9,
+      "amount": 0.00010245698684930422
+    },
+    {
+      "type": "BUY",
+      "entry_price": 146339.8,
+      "amount": 0.0001025011650965766
+    },
+    {
+      "type": "BUY",
+      "entry_price": 146403.5,
+      "amount": 0.00010245656695365889
+    },
+    {
+      "type": "BUY",
+      "entry_price": 146300.6,
+      "amount": 0.00010252862941095252
+    },
+    {
+      "type": "BUY",
+      "entry_price": 146323.3,
+      "amount": 0.00010251272353753641
+    }
+  ],
+  "last_buy_time": 1751316576.017781
+}
